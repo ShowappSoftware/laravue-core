@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": "^8.0.2",
-        "tymon/jwt-auth": "dev-develop"
+        "showapp/jwt-auth": "dev-develop"
     },
     "autoload": {
         "psr-4": {
